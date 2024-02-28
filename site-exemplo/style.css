@@ -1,0 +1,30 @@
+h1{
+   background-color: rgb(148, 158, 243);
+   color: #1B365C;
+   border-radius: 30px;
+   width: 200px;
+   text-align: center;
+   position: relative;
+   left: 50%;
+   transform: translate(-50%);
+   border-style: inset;      
+}
+
+p{
+    text-align: justify;
+}
+h2{
+    background-color: rgb(43, 136, 81);
+    color: #1B365C;
+    border-radius: 30px;
+    border-style: ridge;
+    height: 25px;
+    width: 180px;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+body{
+    background-color:#7EA1C4;
+}
